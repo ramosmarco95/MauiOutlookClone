@@ -9,4 +9,4 @@ Features
 ## INSTALLATION
 git clone https://github.com/ramosmarco95/MauiOutlookClone.git
 ## DEMO VIDEO
-📺 Watch on YouTube (Replace [#](https://www.youtube.com/watch?v=4eodeaj_5Q8) with the actual link when available)
+📺 Watch on YouTube ([Replace [#](https://www.youtube.com/watch?v=4eodeaj_5Q8](https://www.youtube.com/watch?v=4eodeaj_5Q8)) 
